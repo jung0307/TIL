@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3c0a505-f2d7-4118-a30e-02f004909bd8" name="Changes" comment="221213~221214">
-      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap03/Q1_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap03/Q3_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap03/Q4_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap03/Q5_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap03/Q6_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap03/Q7_03.java" afterDir="false" />
+    <list default="true" id="c3c0a505-f2d7-4118-a30e-02f004909bd8" name="Changes" comment="221215~221217">
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap04/GenericQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap04/IntQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap04/IntStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap04/IntStackTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap04/LastNElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap04/Q1_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap04/Q2_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap04/Q3_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap04/Q4_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap05/EuclidGCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap05/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap05/Q1_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap05/Q2_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자료구조와_함께_배우는_알고리즘_입문/chap05/Q3_05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +51,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q7_03">
-    <configuration name="Q3_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자료구조와_함께_배우는_알고리즘_입문.chap03.Q3_03" />
+  <component name="RunManager" selected="Application.Q2_05">
+    <configuration name="EuclidGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자료구조와_함께_배우는_알고리즘_입문.chap05.EuclidGCD" />
       <module name="til" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="자료구조와_함께_배우는_알고리즘_입문.chap03.*" />
+          <option name="PATTERN" value="자료구조와_함께_배우는_알고리즘_입문.chap05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자료구조와_함께_배우는_알고리즘_입문.chap03.Q4_03" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자료구조와_함께_배우는_알고리즘_입문.chap05.Factorial" />
       <module name="til" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="자료구조와_함께_배우는_알고리즘_입문.chap03.*" />
+          <option name="PATTERN" value="자료구조와_함께_배우는_알고리즘_입문.chap05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q5_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자료구조와_함께_배우는_알고리즘_입문.chap03.Q5_03" />
+    <configuration name="LastNElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자료구조와_함께_배우는_알고리즘_입문.chap04.LastNElements" />
       <module name="til" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="자료구조와_함께_배우는_알고리즘_입문.chap03.*" />
+          <option name="PATTERN" value="자료구조와_함께_배우는_알고리즘_입문.chap04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q6_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자료구조와_함께_배우는_알고리즘_입문.chap03.Q6_03" />
+    <configuration name="Q1_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자료구조와_함께_배우는_알고리즘_입문.chap05.Q1_05" />
       <module name="til" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="자료구조와_함께_배우는_알고리즘_입문.chap03.*" />
+          <option name="PATTERN" value="자료구조와_함께_배우는_알고리즘_입문.chap05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q7_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자료구조와_함께_배우는_알고리즘_입문.chap03.Q7_03" />
+    <configuration name="Q2_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자료구조와_함께_배우는_알고리즘_입문.chap05.Q2_05" />
       <module name="til" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="자료구조와_함께_배우는_알고리즘_입문.chap03.*" />
+          <option name="PATTERN" value="자료구조와_함께_배우는_알고리즘_입문.chap05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q7_03" />
-        <item itemvalue="Application.Q6_03" />
-        <item itemvalue="Application.Q5_03" />
-        <item itemvalue="Application.Q4_03" />
-        <item itemvalue="Application.Q3_03" />
+        <item itemvalue="Application.Q2_05" />
+        <item itemvalue="Application.Q1_05" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.EuclidGCD" />
+        <item itemvalue="Application.LastNElements" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +136,12 @@
       <option name="presentableId" value="Default" />
       <updated>1670845163631</updated>
       <workItem from="1670845164902" duration="9201000" />
-      <workItem from="1670904035002" duration="22404000" />
+      <workItem from="1670904035002" duration="24243000" />
+      <workItem from="1671336190443" duration="16808000" />
+      <workItem from="1673588860127" duration="11748000" />
+      <workItem from="1674062557775" duration="1201000" />
+      <workItem from="1674653805115" duration="13319000" />
+      <workItem from="1676514210854" duration="1198000" />
     </task>
     <task id="LOCAL-00001" summary="테스트">
       <created>1670845368941</created>
@@ -158,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671014155317</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="221215~221217">
+      <created>1671275062597</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671275062597</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +198,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="테스트" />
     <MESSAGE value="221213~221214" />
-    <option name="LAST_COMMIT_MESSAGE" value="221213~221214" />
+    <MESSAGE value="221215~221217" />
+    <option name="LAST_COMMIT_MESSAGE" value="221215~221217" />
   </component>
 </project>
